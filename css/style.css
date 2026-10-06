@@ -102,7 +102,7 @@ a {
     display: flex;
     align-items: center;
     padding-top: var(--header-height);
-    background: url('../images/hero.jpg') center / cover no-repeat;
+    background: url('../images/salon-interior.jpg') center / cover no-repeat;
     color: var(--text-light);
     text-align: center;
 }
